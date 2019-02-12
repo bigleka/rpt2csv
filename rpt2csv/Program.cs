@@ -74,17 +74,17 @@ namespace rpt2csv
 
                                 while ((line = inputReader.ReadLine()) != null)
                                 {
-                                    if (lineNumber >= 65536)
-                                    {
-                                        outputWriter.Close();
-                                        outputWriter = File.CreateText(outputFile.Insert(outputFile.LastIndexOf("."), "_" + fileNumber.ToString()));
-                                        fileNumber++;
+                                    //if (lineNumber >= 65536)
+                                    //{
+                                    //    outputWriter.Close();
+                                    //    outputWriter = File.CreateText(outputFile.Insert(outputFile.LastIndexOf("."), "_" + fileNumber.ToString()));
+                                    //    fileNumber++;
 
-                                        lineNumber = 0;
+                                    //    lineNumber = 0;
 
-                                        WriteLineToCsv(outputWriter, fieldLengths, firstLine);
-                                        lineNumber++;
-                                    }
+                                    //    WriteLineToCsv(outputWriter, fieldLengths, firstLine);
+                                    //    lineNumber++;
+                                    //}
 
                                     if (!WriteLineToCsv(outputWriter, fieldLengths, line))
                                     {

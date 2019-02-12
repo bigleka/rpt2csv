@@ -4,3 +4,10 @@ c:\users\rlroveri\documents\visual studio 2013\Projects\rpt2csv\rpt2csv\bin\Debu
 c:\users\rlroveri\documents\visual studio 2013\Projects\rpt2csv\rpt2csv\bin\Debug\rpt2csv.pdb
 c:\users\rlroveri\documents\visual studio 2013\Projects\rpt2csv\rpt2csv\obj\Debug\rpt2csv.exe
 c:\users\rlroveri\documents\visual studio 2013\Projects\rpt2csv\rpt2csv\obj\Debug\rpt2csv.pdb
+G:\bkp\Visual Studio 2013\Projects\rpt2csv\rpt2csv\bin\Debug\rpt2csv.exe.config
+G:\bkp\Visual Studio 2013\Projects\rpt2csv\rpt2csv\bin\Debug\rpt2csv.exe
+G:\bkp\Visual Studio 2013\Projects\rpt2csv\rpt2csv\bin\Debug\rpt2csv.pdb
+G:\bkp\Visual Studio 2013\Projects\rpt2csv\rpt2csv\obj\Debug\rpt2csv.csprojAssemblyReference.cache
+G:\bkp\Visual Studio 2013\Projects\rpt2csv\rpt2csv\obj\Debug\rpt2csv.csproj.CoreCompileInputs.cache
+G:\bkp\Visual Studio 2013\Projects\rpt2csv\rpt2csv\obj\Debug\rpt2csv.exe
+G:\bkp\Visual Studio 2013\Projects\rpt2csv\rpt2csv\obj\Debug\rpt2csv.pdb
